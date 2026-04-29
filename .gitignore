@@ -1,0 +1,11 @@
+# WoW saved variables (stockées dans WTF/, pas ici)
+*.bak
+*.orig
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+*.swp
+*~

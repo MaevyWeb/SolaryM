@@ -1,0 +1,33 @@
+## Interface: 120005
+## Title: SolaryM
+## Notes: RL Suite — Spells, Boss Timers, M+/Raid, Groupes, Invites, Break Timer
+## Author: Maevy
+## Version: 3.0.3
+## OptionalDeps: BigWigs, BigWigsLoader, DBM-Core
+## SavedVariables: SolaryMDB
+
+Libs/LibStub/LibStub.lua
+Libs/AceComm-3.0/ChatThrottleLib.lua
+Libs/AceComm-3.0/AceComm-3.0.lua
+Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+Libs/LibDBIcon-1.0/LibDBIcon-1.0.lua
+Libs/LibCustomGlow-1.0/LibCustomGlow-1.0.lua
+Libs/LibGetFrame-1.0/LibGetFrame-1.0.lua
+SolaryM_Core.lua
+SolaryM_SpellDB.lua
+SolaryM_Resize.lua
+SolaryM_Alert.lua
+SolaryM_SmartAlert.lua
+SolaryM_BossTimer.lua
+SolaryM_Assignments.lua
+SolaryM_Break.lua
+SolaryM_Invite.lua
+SolaryM_VersionCheck.lua
+SolaryM_CastBar.lua
+SolaryM_MythicCasts.lua
+SolaryM_Beloren.lua
+SolaryM_MGBridge.lua
+SolaryM_MemoryGame.lua
+SolaryM_ReminderNote.lua
+SolaryM_PersonalNotes.lua
+SolaryM_Panel.lua
